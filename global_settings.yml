@@ -1,5 +1,4 @@
 object_type: global_settings
 overrides:
     "aggregates.systemGenerated.activeInstance.extraAllowance": 0
-    "aggregates.systemGenerated.activeInstance.retentionLimit": 1
-    "asfd": 1
+    "aggregates.systemGenerated.activeInstance.retentionLimit": 2
